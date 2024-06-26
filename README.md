@@ -4,7 +4,7 @@
 
 ### High resolution image generation model can generate images with resolution of 4x4 images upto 1024x1024 
 
-#### The training ended after 161 training epochs as dis losses reached highest loss value and gen loss started to increase as shown in tensorboard view
+#### The training stopped after 161 training epochs as dis losses reached highest loss value and gen loss started to increase as shown in tensorboard view
 ![Alt gif](training_process_images/train_process.gif)
 
 #### Last Tensorboard output
