@@ -8,5 +8,4 @@
 #### The training stopped after 161 training epochs as dis losses reached highest loss value and gen loss started to increase as shown in tensorboard view
 ![Alt gif](training_process_images/train_process.gif)
 
-#### Last Tensorboard output
 ![Alt Image](training_process_images/tensorboard_view.png)
