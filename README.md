@@ -1,4 +1,5 @@
 # High Resolution Image Generator in Pytorch GAN
+![Alt Image](final_generated_images/image_00.png)
 ### The model trained on anime characters image dataset (37449 images with dimensions of 128x128x3)
 ### Generator and Discriminator model structures used custom Scaled layers
 
